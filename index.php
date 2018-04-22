@@ -3,24 +3,21 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Bell Bootstrap 4 Theme</title>
+  <title>ArunBal Fine Arts</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta content="" name="keywords">
-  <meta content="" name="description">
+  <meta content="ArunBal Fine Arts" name="keywords">
+  <meta content="ArunBal Fine Arts" name="description">
 
-  <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
-  <meta property="og:title" content="">
-  <meta property="og:image" content="">
-  <meta property="og:url" content="">
-  <meta property="og:site_name" content="">
-  <meta property="og:description" content="">
-
-  <!-- Twitter Cards integration: https://dev.twitter.com/cards/  -->
+  <meta property="og:title" content="ArunBal Fine Arts">
+  <meta property="og:image" content="ArunBal Fine Arts">
+  <meta property="og:url" content="ArunBal Fine Arts">
+  <meta property="og:site_name" content="ArunBal Fine Arts">
+  <meta property="og:description" content="ArunBal Fine Arts">
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:site" content="">
-  <meta name="twitter:title" content="">
-  <meta name="twitter:description" content="">
-  <meta name="twitter:image" content="">
+  <meta name="twitter:site" content="ArunBal Fine Arts">
+  <meta name="twitter:title" content="ArunBal Fine Arts">
+  <meta name="twitter:description" content="ArunBal Fine Arts">
+  <meta name="twitter:image" content="ArunBal Fine Arts">
 
   <!-- Favicon -->
   <link href="img/favicon.ico" rel="icon">
@@ -36,13 +33,6 @@
 
   <!-- Main Stylesheet File -->
   <link href="css/style.css" rel="stylesheet">
-
-  <!-- =======================================================
-    Theme Name: Bell
-    Theme URL: https://bootstrapmade.com/bell-free-bootstrap-4-template/
-    Author: BootstrapMade.com
-    Author URL: https://bootstrapmade.com
-  ======================================================= -->
 </head>
 
 <body>
@@ -60,7 +50,7 @@
 
       <div class="col-md-12">
         <h1>
-            A theme with personality
+            ArunBal Fine Arts
           </h1>
 
         <p class="tagline">
