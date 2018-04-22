@@ -44,7 +44,7 @@
     <div class="container text-center">
       <div class="row">
         <div class="col-md-12">
-          <a class="hero-brand" href="index.html" title="Home"><img alt="Bell Logo" src="img/logo.png"></a>
+          <a class="hero-brand" href="index.html" title="Home"><img alt="ArunBal  Logo" src="img/logo.png"></a>
         </div>
       </div>
 
@@ -70,7 +70,7 @@
       <div id="logo" class="pull-left">
         <a href="index.html"><img src="img/logo-nav.png" alt="" title="" /></img></a>
         <!-- Uncomment below if you prefer to use a text image -->
-        <!--<h1><a href="#hero">Bell</a></h1>-->
+        <!--<h1><a href="#hero">ArunBal </a></h1>-->
       </div>
 
       <nav id="nav-menu-container">
@@ -159,7 +159,7 @@
     <p>
       This is the most powerful theme with thousands of options that you have never seen before.
     </p>
-    <img alt="Bell - A perfect theme" class="gadgets-img hidden-md-down" src="img/gadgets.png">
+    <img alt="ArunBal  - A perfect theme" class="gadgets-img hidden-md-down" src="img/gadgets.png">
   </div>
   <!-- /Parallax -->
   <!-- Features -->
@@ -215,7 +215,7 @@
           <div class="card card-block text-center">
             <div>
               <div class="feature-icon">
-                <span class="fa fa-bell"></span>
+                <span class="fa fa-ArunBal "></span>
               </div>
             </div>
 
@@ -629,7 +629,7 @@
 
           <div class="col-lg-6 col-xs-12 text-lg-left text-center">
             <p class="copyright-text">
-              © BELL Theme
+              © ArunBal  Theme
             </p>
             <div class="credits">
               <a href="#">ArunBal Fine Arts</a> by ArunBal
