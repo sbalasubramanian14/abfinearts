@@ -20,7 +20,7 @@
   <meta name="twitter:image" content="ArunBal Fine Arts">
 
   <!-- Favicon -->
-  <link href="img/favicon.ico" rel="icon">
+  <link href="img/favicon.png" rel="icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Raleway:400,500,700|Roboto:400,900" rel="stylesheet">
@@ -77,7 +77,7 @@
         <ul class="nav-menu">
           <li><a href="#about">About Us</a></li>
           <li><a href="#features">Features</a></li>
-          <li><a href="#portfolio">Portfolio</a></li>
+          <li><a href="#Gallery">Gallery</a></li>
           <li><a href="#team">Team</a></li>
           <li class="menu-has-children"><a href="">Drop Down</a>
             <ul>
@@ -113,7 +113,7 @@
   <section class="about" id="about">
     <div class="container text-center">
       <h2>
-          About Bell Theme
+          About Us
         </h2>
 
       <p>
@@ -136,7 +136,7 @@
 
         <div class="stats-col text-center col-md-3 col-sm-6">
           <div class="circle">
-            <span class="stats-no" data-toggle="counter-up">1,463</span> Hours Of Support
+            <span class="stats-no" data-toggle="counter-up">24/<7></7></span> Hours Of Support
           </div>
         </div>
 
@@ -296,34 +296,13 @@
     </div>
   </section>
   <!-- /Features -->
-  <!-- Call to Action -->
+  
+  <!-- Gallery -->
 
-  <section class="cta">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-9 col-sm-12 text-lg-left text-center">
-          <h2>
-              Call to Action Section
-            </h2>
-
-          <p>
-            Lorem ipsum dolor sit amet, nec ad nisl mandamus imperdiet, ut corpora cotidieque cum. Et brute iracundia his, est eu idque dictas gubergren
-          </p>
-        </div>
-
-        <div class="col-lg-3 col-sm-12 text-lg-right text-center">
-          <a class="btn btn-ghost" href="#">Buy This Theme</a>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- /Call to Action -->
-  <!-- Portfolio -->
-
-  <section class="portfolio" id="portfolio">
+  <section class="Gallery" id="Gallery">
     <div class="container text-center">
       <h2>
-          Portfolio
+          Gallery
         </h2>
 
       <p>
@@ -331,12 +310,12 @@
       </p>
     </div>
 
-    <div class="portfolio-grid">
+    <div class="Gallery-grid">
       <div class="row">
         <div class="col-lg-3 col-sm-6 col-xs-12">
           <div class="card card-block">
             <a href="#"><img alt="" src="img/porf-1.jpg">
-              <div class="portfolio-over">
+              <div class="Gallery-over">
                 <div>
                   <h3 class="card-title">
                     The Dude Rockin'
@@ -353,7 +332,7 @@
         <div class="col-lg-3 col-sm-6 col-xs-12">
           <div class="card card-block">
             <a href="#"><img alt="" src="img/porf-2.jpg">
-              <div class="portfolio-over">
+              <div class="Gallery-over">
                 <div>
                   <h3 class="card-title">
                     The Dude Rockin'
@@ -370,7 +349,7 @@
         <div class="col-lg-3 col-sm-6 col-xs-12">
           <div class="card card-block">
             <a href="#"><img alt="" src="img/porf-3.jpg">
-              <div class="portfolio-over">
+              <div class="Gallery-over">
                 <div>
                   <h3 class="card-title">
                     The Dude Rockin'
@@ -387,7 +366,7 @@
         <div class="col-lg-3 col-sm-6 col-xs-12">
           <div class="card card-block">
             <a href="#"><img alt="" src="img/porf-4.jpg">
-              <div class="portfolio-over">
+              <div class="Gallery-over">
                 <div>
                   <h3 class="card-title">
                     The Dude Rockin'
@@ -406,7 +385,7 @@
         <div class="col-lg-3 col-sm-6 col-xs-12">
           <div class="card card-block">
             <a href="#"><img alt="" src="img/porf-5.jpg">
-              <div class="portfolio-over">
+              <div class="Gallery-over">
                 <div>
                   <h3 class="card-title">
                     The Dude Rockin'
@@ -423,7 +402,7 @@
         <div class="col-lg-3 col-sm-6 col-xs-12">
           <div class="card card-block">
             <a href="#"><img alt="" src="img/porf-6.jpg">
-              <div class="portfolio-over">
+              <div class="Gallery-over">
                 <div>
                   <h3 class="card-title">
                     The Dude Rockin'
@@ -440,7 +419,7 @@
         <div class="col-lg-3 col-sm-6 col-xs-12">
           <div class="card card-block">
             <a href="#"><img alt="" src="img/porf-7.jpg">
-              <div class="portfolio-over">
+              <div class="Gallery-over">
                 <div>
                   <h3 class="card-title">
                     The Dude Rockin'
@@ -457,7 +436,7 @@
         <div class="col-lg-3 col-sm-6 col-xs-12">
           <div class="card card-block">
             <a href="#"><img alt="" src="img/porf-8.jpg">
-              <div class="portfolio-over">
+              <div class="Gallery-over">
                 <div>
                   <h3 class="card-title">
                     The Dude Rockin'
@@ -473,7 +452,7 @@
       </div>
     </div>
   </section>
-  <!-- /Portfolio -->
+  <!-- /Gallery -->
   <!-- Team -->
 
   <section class="team" id="team">
@@ -653,13 +632,7 @@
               © BELL Theme
             </p>
             <div class="credits">
-              <!--
-                All the links in the footer should remain intact.
-                You can delete the links only if you purchased the pro version.
-                Licensing information: https://bootstrapmade.com/license/
-                Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Bell
-              -->
-              <a href="https://bootstrapmade.com/">Bootstrap Templates</a> by BootstrapMade
+              <a href="#">ArunBal Fine Arts</a> by ArunBal
             </div>
           </div>
 
@@ -678,7 +651,7 @@
               </li>
 
               <li class="list-inline-item">
-                <a href="#portfolio">Portfolio</a>
+                <a href="#Gallery">Gallery</a>
               </li>
 
               <li class="list-inline-item">

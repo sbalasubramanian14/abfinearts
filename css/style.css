@@ -1,9 +1,4 @@
-/*
-    Theme Name: Bell
-    Theme URL: https://bootstrapmade.com/bell-free-bootstrap-4-template/
-    Author: BootstrapMade.com
-    Author URL: https://bootstrapmade.com
-*/
+
 h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", Helvetica, Arial, sans-serif;
 }
@@ -591,35 +586,35 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 /* ==================================================
-  Portfolio Styling
+  Gallery Styling
   ================================================== */
-.portfolio {
+.Gallery {
   background-color: #edf6ff;
   padding-bottom: 0;
 }
 
-.portfolio h2 {
+.Gallery h2 {
   color: #199EB8;
   margin-bottom: 25px;
 }
 
-.portfolio-grid {
+.Gallery-grid {
   margin-top: 65px;
 }
 
-.portfolio-grid .row {
+.Gallery-grid .row {
   margin: 0;
 }
 
-.portfolio-grid .row > div {
+.Gallery-grid .row > div {
   padding: 0;
 }
 
-.portfolio-grid .row > div .card img {
+.Gallery-grid .row > div .card img {
   width: 100%;
 }
 
-.portfolio-grid .row > div .card .portfolio-over {
+.Gallery-grid .row > div .card .Gallery-over {
   position: absolute;
   display: table-cell;
   vertical-align: middle;
@@ -637,7 +632,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   transition: all 0.3s ease;
 }
 
-.portfolio-grid .row > div .card .portfolio-over > div {
+.Gallery-grid .row > div .card .Gallery-over > div {
   position: relative;
   top: 50%;
   -webkit-transform: translateY(-50%);
@@ -645,18 +640,18 @@ body.mobile-nav-active #mobile-nav-toggle {
   transform: translateY(-50%);
 }
 
-.portfolio-grid .row > div .card .portfolio-over .card-title {
+.Gallery-grid .row > div .card .Gallery-over .card-title {
   color: #fff;
   font-size: 30px;
 }
 
-.portfolio-grid .row > div .card .portfolio-over .card-text {
+.Gallery-grid .row > div .card .Gallery-over .card-text {
   color: #fff;
   opacity: .75;
   padding: 0 45px;
 }
 
-.portfolio-grid .row > div .card:hover .portfolio-over {
+.Gallery-grid .row > div .card:hover .Gallery-over {
   opacity: 1;
   visibility: visible;
 }
@@ -947,10 +942,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   .feature-col {
     padding-bottom: 30px;
   }
-  .portfolio-grid .card h3.card-title {
+  .Gallery-grid .card h3.card-title {
     font-size: 18px !important;
   }
-  .portfolio-grid .card .card-text {
+  .Gallery-grid .card .card-text {
     font-size: 13px;
   }
   .team .team-over {
