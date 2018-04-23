@@ -136,7 +136,7 @@
 
         <div class="stats-col text-center col-md-3 col-sm-6">
           <div class="circle">
-            <span class="stats-no" data-toggle="counter-up">24/<7></7></span> Hours Of Support
+            <span class="stats-no" data-toggle="counter-up">24/7</span> Hours Of Support
           </div>
         </div>
 
