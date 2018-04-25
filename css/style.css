@@ -88,7 +88,7 @@ a:hover {
   display: none;
   position: fixed;
   bottom: 15px;
-  right: 15px;
+  left: 15px;
   width: 42px;
   height: 42px;
   border-radius: 50%;
