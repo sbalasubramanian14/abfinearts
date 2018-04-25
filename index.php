@@ -33,6 +33,8 @@
 
   <!-- Main Stylesheet File -->
   <link href="css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/normalize.css">
+	<link rel="stylesheet" href="css/loader.css">
   <script type="text/javascript"> window.$crisp=[];window.CRISP_WEBSITE_ID="2e7f2ecc-0aff-4f20-aeac-ec98b67db20c";(function(){ d=document;s=d.createElement("script"); s.src="https://client.crisp.chat/l.js"; s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})(); </script>
 </head>
 
@@ -40,6 +42,23 @@
   <!-- Page Content
     ================================================== -->
   <!-- Hero -->
+<?php
+$cookie_name = "loader";
+$cookie_value = "yes";
+echo isset($_COOKIE[$cookie_name]);
+if(!isset($_COOKIE[$cookie_name])) 
+{
+    echo "<div id=\"loader-wrapper\">
+			      <div id=\"loader\"></div>
+
+			      <div class=\"loader-section section-left\"></div>
+            <div class=\"loader-section section-right\"></div>
+
+		      </div>";
+
+}
+setcookie($cookie_name, $cookie_value,0); // 3600 = 1 hour 
+?>
 
   <section class="hero">
     <div class="container text-center">
@@ -692,8 +711,7 @@
 
   <!-- Template Specisifc Custom Javascript File -->
   <script src="js/custom.js"></script>
-
   <script src="contactform/contactform.js"></script>
-
+  <script src="js/loader.js"></script>
 </body>
 </html>
