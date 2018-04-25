@@ -45,7 +45,6 @@
 <?php
 $cookie_name = "loader";
 $cookie_value = "yes";
-echo isset($_COOKIE[$cookie_name]);
 if(!isset($_COOKIE[$cookie_name])) 
 {
     echo "<div id=\"loader-wrapper\">
